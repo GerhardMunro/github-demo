@@ -3,5 +3,3 @@ Spanish
 English
 Italian
 Russian
-Russian
-English
