@@ -1,7 +1,4 @@
-Design Rainfall in South Africa: Ver 3 (July 2020)
-Spanish1234
-Afrikaans2
-Master1234
+Design Rainfall in South Africa: Eng Ver 3 (October 2021)
  
 User selection has the following criteria:
 Station Name: THABA
